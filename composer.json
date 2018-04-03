@@ -1,0 +1,21 @@
+{
+  "name": "samcrosoft/learn-php-algorithms",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "project",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "illuminate/support": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Samcrosoft\\LearnAlgorithms\\": "src/"
+    }
+  }
+}
